@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6p4EhfQ5xYlDAroPLD4qieybUOL6J62k4zCg6sMa0eQ=",
+  "Source": "LinuxApp",
+  "BasePath": "_content/LinuxApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
