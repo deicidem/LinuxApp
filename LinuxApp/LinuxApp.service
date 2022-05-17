@@ -1,0 +1,13 @@
+﻿[Unit]
+Description=LinuxApp
+
+[Service]
+ExecStart=/usr/bin/dotnet /var/www/app/LinuxApp.dll
+SyslogIdentifier=LinuxApp
+
+User=andreypochitaev
+
+Environment=DOTNET_ROOT=/usr/lib64/dotnet
+
+[Install]
+WantedBy=multi-user.target
